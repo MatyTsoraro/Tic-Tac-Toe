@@ -1,5 +1,7 @@
 
+import Game from "./components/Game";
+
 
 export default function Square() {
-  return <button className="square">X</button>;
+   return  <Game />
 }
